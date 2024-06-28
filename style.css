@@ -37,8 +37,16 @@ h2{
     border: 10px salmon;
     border-radius: 10px;
     border-style: bold;
-
-
 }
-
-
+#foto3{
+    border: 10px solid rgb(194, 162, 23);
+}
+#foto2{
+    border: 10px solid rgb(181, 81, 185);
+}
+#foto1{
+    border: 10px solid rgb(231, 110, 89);
+}
+#foto{
+    border: 10px solid rgb(78, 155, 63);
+}

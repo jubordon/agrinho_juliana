@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(44, 155, 163);
+}
+header{
+    background-color: rgb(81, 165, 185);
+}
+h1{
+    color: rgb(231, 12, 12);
+}
+h2{
+    color: rgb(218, 190, 34);
+
+}
+.li{
+
+    display: inline-block;
+    text-align:center;
+    width: 100%;
+    height: auto;
+    vertical-align: top;
+    margin: o1.05;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 10px salmon;
+    border-radius: 10px;
+    border-style: bold;
+
+
+}
+.titulo2 img{
+    width: 40%;
+    height: auto;
+    vertical-align: top;
+    margin: 01.05;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 10px salmon;
+    border-radius: 10px;
+    border-style: bold;
+
+
+}
+
+
